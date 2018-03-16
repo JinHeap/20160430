@@ -14,7 +14,6 @@ Git 为你的每一个提交都记录你的名字与电子邮箱地址，所以�
 `git config --global user.name 'name'`
 `git config --global user.email name@email.com`
 使用 git add 命令将想要快照的内容写入缓存区， 而执行 git commit 将缓存区内容添加到仓库中。
-
 `git commit -m '第一次版本提交'`
 
 + git push
