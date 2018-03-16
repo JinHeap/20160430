@@ -18,7 +18,7 @@ Git 为你的每一个提交都记录你的名字与电子邮箱地址，所以�
 `git commit -m '第一次版本提交'`
 
 + git push
-`git push origin master`
+    `git push origin master`
 
 取得远程更新
 ====
